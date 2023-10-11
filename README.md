@@ -17,13 +17,6 @@
 
 <ol>
 	<li>Склонируйте этот репозиторий на свой локальный компьютер:</li>
-	<p>bash</pw>
-	<p>git clone https://github.com/yourusername/hash-utility.git</p>
-
 	<li>Перейдите в каталог со скриптом:</li>
-	<p>cd hash_date</p>
-
 	<li>Запустите скрипт</li>
-	<p>"python3 v0.1_hash_date.py" или python "v0.1_hash_date.py"</p>
-
 </ol>
